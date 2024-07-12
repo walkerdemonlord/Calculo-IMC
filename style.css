@@ -63,3 +63,6 @@ input[type="number"]::-webkit-inner-spin-button {
     padding: 10px;
 }
 
+.hidden {
+    display: none;
+}
